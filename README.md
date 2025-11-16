@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🎓 I'm a Systems Analysis and Development student at UFRN. <br>💼 Currently working as a Java Developer Analyst. <br>💡 I enjoy turning ideas into simple and functional solutions. <br>🌟 Feel free to take a look at my projects!</h4>
+<h4 align="left">👨🏻‍🎓 I'm a Systems Analysis and Development student at UFRN. <br>👨🏻‍💻 Currently working as a Java Developer Analyst. <br>💭 I enjoy turning ideas into simple and functional solutions. <br>🌟 Feel free to take a look at my projects!</h4>
 
 ###
 
@@ -50,10 +50,10 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/guilherme-felipe-b26678256" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-felipe-b26678256" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="guilhermefelipe007@gmail.com" target="_blank">
+  <a href="mailto:guilhermefelipe007@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
