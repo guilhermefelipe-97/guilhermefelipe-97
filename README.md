@@ -1,14 +1,15 @@
-<h2 align="left">Hi, my name is Guilherme Felipe👋!</h2>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20my%20name%20is%20Guilherme%20Felipe%F0%9F%91%8B!%20&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 ###
 
-<h4 align="left">👨🏻‍🎓 I'm a Systems Analysis and Development student at UFRN. <br>👨🏻‍💻 Currently working as a Java Developer Analyst. <br>💭 I enjoy turning ideas into simple and functional solutions. <br>🌟 Feel free to take a look at my projects!</h4>
+<h5 align="left">👨🏻‍🎓 I'm a Systems Analysis and Development student at UFRN. <br>👨🏻‍💻 Currently working as a Java Developer Analyst. <br>💭 I enjoy turning ideas into simple and functional solutions. <br>🌟 Feel free to take a look at my projects!</h4>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermefelipe-97&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermefelipe-97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNtcDV0MW1wbnI1ZTlrbG9id3N5aHhyOXJkMWs3eXMxcThubmdwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
 ###
