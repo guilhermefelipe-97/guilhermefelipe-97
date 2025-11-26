@@ -4,7 +4,7 @@
 
 ###
 
-<h5 align="left">👨🏻‍🎓 I'm a Systems Analysis and Development student at UFRN. <br>👨🏻‍💻 Currently working as a Java Developer Analyst. <br>💭 I enjoy turning ideas into simple and functional solutions. <br>🌟 Feel free to take a look at my projects!</h4>
+<h4 align="left">👨🏻‍🎓 I'm a Systems Analysis and Development student at UFRN. <br>👨🏻‍💻 Currently working as a Java Developer Analyst. <br>💭 I enjoy turning ideas into simple and functional solutions. <br>🌟 Feel free to take a look at my projects!</h4>
 
 ###
 
